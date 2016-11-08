@@ -1,13 +1,13 @@
 # OpdrachtenSoftware
 ## C# Dotnetfiddle
 
-**Hoofdstuk 4**
+### Hoofdstuk 4
 
 - [Oefening 4.7: Seconden naar uren, minuten en seconden method](https://github.com/MathiasV-immalle/portfolio/blob/master/dotnetfiddle/Hoofdstuk%204/Oef%204.7.md)
 
 - [Oefening 4.9: Geldteruggave (Frisdrankautomaat) method](https://github.com/MathiasV-immalle/portfolio/blob/master/dotnetfiddle/Hoofdstuk%204/Oef%204.9.md)
 
-**Hoofdstuk 5**
+### Hoofdstuk 5
 
 - [Oefening 5.1: ToonNaam method](https://github.com/MathiasV-immalle/portfolio/blob/master/dotnetfiddle/Hoofdstuk%205/Oef%205.1.md)
 
@@ -21,7 +21,7 @@
 
 ## C# Visual Studio
 
-**Hoofdstuk 6**
+### Hoofdstuk 6
 
 - [Oefening 6.1: Cirkel door sliders](https://github.com/MathiasV-immalle/portfolio/blob/master/VisualStudio/Hoofdstuk%206/Oef%206.1.md)
 
