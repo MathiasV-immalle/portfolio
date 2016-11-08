@@ -12,7 +12,7 @@ public class Program
 			int cijfer2 = 51;
 			
 			// Berekening gemiddelde
-			double gemiddelde = (cijfer1 + cijfer2)/2;
+			int gemiddelde = (cijfer1 + cijfer2)/2;
 			
 			// Weergave gemiddelde
 			Console.WriteLine("Het gemiddelde op de examens was" + " " + gemiddelde + "%");
