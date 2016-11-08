@@ -3,6 +3,8 @@
 
 ### Hoofdstuk 4
 
+- [Oefening 4.2: Cirkel: straal / omtrek / opp + volume bol method](https://github.com/MathiasV-immalle/portfolio/blob/master/dotnetfiddle/Hoofdstuk%204/Oef%204.2.md)
+
 - [Oefening 4.7: Seconden naar uren, minuten en seconden method](https://github.com/MathiasV-immalle/portfolio/blob/master/dotnetfiddle/Hoofdstuk%204/Oef%204.7.md)
 
 - [Oefening 4.9: Geldteruggave (Frisdrankautomaat) method](https://github.com/MathiasV-immalle/portfolio/blob/master/dotnetfiddle/Hoofdstuk%204/Oef%204.9.md)
