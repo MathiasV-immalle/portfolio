@@ -1,4 +1,5 @@
-# OpdrachtenSoftware: C# Dotnetfiddles
+# OpdrachtenSoftware
+## C# Dotnetfiddle
 
 **Hoofdstuk 4**
 
@@ -18,5 +19,10 @@
 
 - [Oefening 5.11: Tijd in uren-minuten-seconden naar seconden method](https://github.com/MathiasV-immalle/portfolio/blob/master/dotnetfiddle/Hoofdstuk%205/Oef%205.11.md)
 
+## C# Visual Studio
+
 **Hoofdstuk 6**
-*Under Construction*
+
+- [Oefening 6.1: Cirkel door sliders](https://github.com/MathiasV-immalle/portfolio/blob/master/VisualStudio/Hoofdstuk%206/Oef%206.1.md)
+
+*Coming soon...*
