@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Oefening 5.1: ToonNaam method
 ```
 using System;
@@ -22,3 +23,25 @@ public class Program
     }
 }
 ```
+=======
+# Oefening 5.10: Opp. cirkel method
+
+```
+using System;
+
+public class Program
+{
+    private static double OppCirkel(double r)
+    {
+        double opp = r * r * Math.PI;
+        return opp;
+    }
+
+    public static void Main()
+    {
+        double opp = OppCirkel(1.25);
+        Console.WriteLine(opp);
+    }
+}
+```
+>>>>>>> ce858986e601af1367bbabf2aec4fcb47a6c94e7
