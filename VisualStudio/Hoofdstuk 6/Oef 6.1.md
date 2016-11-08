@@ -1,4 +1,4 @@
-# Oefening 6.1: Cirkel door sliders
+# Oefening bij 6.4: De klasse 'Slider': Cirkel met gebruik van sliders
 
 ## XAML
 
