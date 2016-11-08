@@ -11,7 +11,7 @@
 
 ### Hoofdstuk 4: Variabelen en berekeningen
 
-- [Oefening 4.2: Cirkel: straal / omtrek / opp + volume bol](../../../master/dotnetfiddle/Hoofdstuk%204/Oef%204.2.md)
+- [Oefening 4.2: Cirkel: straal / omtrek / opp + volume bol](master/dotnetfiddle/Hoofdstuk%204/Oef%204.2.md)
 
 - [Oefening 4.7: Seconden naar uren, minuten en seconden](https://github.com/MathiasV-immalle/portfolio/blob/master/dotnetfiddle/Hoofdstuk%204/Oef%204.7.md)
 
