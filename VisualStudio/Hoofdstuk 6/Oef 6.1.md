@@ -29,6 +29,7 @@
 </Window>
 ```
 Dit maakt hetgeen deze afbeelding weergeeft.
+
 ![afbeelding](../../AfbeeldingenGithub/2016-11-08 14_03_47-WpfSlider - Microsoft Visual Studio Sliders1.png "Afbeelding slider1")
 ## De Eventhandlers
 
@@ -105,4 +106,5 @@ namespace slider2
 ```
 
 Deze code zorgt voor het effect dat deze weergeeft.
+
 ![afbeelding](../../AfbeeldingenGithub/2016-11-08 14_05_18-Sliderz sliders2.png "Afbeelding slider2")
