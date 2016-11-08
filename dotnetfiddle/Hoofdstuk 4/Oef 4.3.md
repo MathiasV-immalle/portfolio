@@ -7,7 +7,6 @@ public class Program
 {
 	public static void Main()
 	{
-		// 4.3 -> Integer gemiddelde
 			// Alle cijfers
 			int cijfer1 = 44;
 			int cijfer2 = 51;
