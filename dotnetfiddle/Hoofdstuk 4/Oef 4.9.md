@@ -6,7 +6,6 @@ public class Program
 {
     public static void Main()
     {
-        // Met veel RAM
             // Info
             int amountGiven = 100;
             int itemCost = 45;
