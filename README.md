@@ -6,6 +6,8 @@
 ### Hoofdstuk 4: [Variabelen en berekeningen](https://github.com/MathiasV-immalle/portfolio/blob/master/EigenNotities/Hoofdstuk4.md)
 ### Hoofdstuk 5: [Methoden en argumenten](https://github.com/MathiasV-immalle/portfolio/blob/master/EigenNotities/Hoofdstuk5.md)
 ### Hoofdstuk 6: [Objecten](https://github.com/MathiasV-immalle/portfolio/blob/master/EigenNotities/Hoofdstuk6.md)
+## Programmeren in Linux
+### [Oefeningen](https://github.com/MathiasV-immalle/portfolio/blob/master/Linux/Oefeningen/Oefeningen.md)
 *Meer hoofdstukken komen hier doorheen het schooljaar! :)*
 
 *Sommige hoofdstukken zijn nog 'Under Construction', of er ontbreken oefeningen. De bedoeling is dat deze hoofdstukken worden aangevuld tegen de examens, zodat dit een mooi overzicht wordt van de leerstof. Wat er nu dus nog niet is, zal nog komen!*
