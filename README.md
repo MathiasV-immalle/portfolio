@@ -6,7 +6,7 @@
 ### Hoofdstuk 4: [Variabelen en berekeningen](https://github.com/MathiasV-immalle/portfolio/blob/master/EigenNotities/Hoofdstuk4.md)
 ### Hoofdstuk 5: [Methoden en argumenten](https://github.com/MathiasV-immalle/portfolio/blob/master/EigenNotities/Hoofdstuk5.md)
 ### Hoofdstuk 6: [Objecten](https://github.com/MathiasV-immalle/portfolio/blob/master/EigenNotities/Hoofdstuk6.md)
-### Hoofdstuk 7: [Beslissingen: if en switch]()
+### Hoofdstuk 7: [Beslissingen: if en switch](https://github.com/MathiasV-immalle/portfolio/blob/master/EigenNotities/Hoofdstuk7.md)
 ### Hoofdstuk 8: [Herhaling: For, while en do]()
 ## Programmeren in Linux
 ### Oefeningen in [Linux](https://github.com/MathiasV-immalle/portfolio/blob/master/Linux/Oefeningen/Oefeningen.md)
