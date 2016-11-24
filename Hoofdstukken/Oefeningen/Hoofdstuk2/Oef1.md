@@ -24,7 +24,7 @@
 ```
 #### Dit maakt hetgeen deze afbeelding weergeeft.
 
-![afbeelding](https://github.com/MathiasV-immalle/portfolio/blob/master/AfbeeldingenGithub/Oef2.1/2016-11-10%2021_30_51-DemoH2Testvraag1%20-%20Microsoft%20Visual%20Studio%20Scherm.png)
+![afbeelding](Hoofdstuk2Oef1/1.png)
 
 ## Eventhandlers
 
@@ -84,13 +84,13 @@ namespace DemoH2Testvraag1
 
 ##### De 1-knop wordt ingedrukt
 
-![1](https://github.com/MathiasV-immalle/portfolio/blob/master/AfbeeldingenGithub/Oef2.1/2016-11-10%2020_55_15-MainWindow.png)
+![1](Afbeeldingen/Hoofdstuk2Oef1/2.png)
 
 ##### De 2-knop wordt ingedrukt
 
-![2](https://github.com/MathiasV-immalle/portfolio/blob/master/AfbeeldingenGithub/Oef2.1/2016-11-10%2020_55_52-MainWindow.png)
+![2](Afbeeldingen/Hoofdstuk2Oef1/3.png)
 
 ##### De 3-knop wordt ingedrukt
 
-![3](https://github.com/MathiasV-immalle/portfolio/blob/master/AfbeeldingenGithub/Oef2.1/2016-11-10%2020_54_16-MainWindow%20ABC%202.1.png)
+![3](Afbeeldingen/Hoofdstuk2Oef1/4.png)
 
