@@ -84,13 +84,13 @@ namespace DemoH2Testvraag1
 
 ##### De 1-knop wordt ingedrukt
 
-![1](Afbeeldingen/Hoofdstuk2Oef1/2.png)
+![1](Hoofdstuk2Oef1/2.png)
 
 ##### De 2-knop wordt ingedrukt
 
-![2](Afbeeldingen/Hoofdstuk2Oef1/3.png)
+![2](Hoofdstuk2Oef1/3.png)
 
 ##### De 3-knop wordt ingedrukt
 
-![3](Afbeeldingen/Hoofdstuk2Oef1/4.png)
+![3](Hoofdstuk2Oef1/4.png)
 
