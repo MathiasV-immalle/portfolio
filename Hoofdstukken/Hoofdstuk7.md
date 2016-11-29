@@ -1,6 +1,10 @@
 # Hoofdstuk 7: Herhaling: For, while en do
 ## Testvragen
 
+- [Oefening 7.1: Kaart genereren](Oefeningen/Hoofdstuk7/Oef1.md)
+
+- [Oefening 7.2: Getallen sorteren](Oefeningen/Hoofdstuk7/Oef2.md)
+
 - [Oefening 7.13: Bereken btw met tarieven](Oefeningen/Hoofdstuk7/Oef13.md)
 
 ## Extra oefeningen
