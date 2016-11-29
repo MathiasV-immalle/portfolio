@@ -19,7 +19,7 @@
 ```
 #### Dit maakt hetgeen deze afbeelding weergeeft.
 
-![afbeelding](https://github.com/MathiasV-immalle/portfolio/blob/master/AfbeeldingenGithub/Oef2.5/2016-11-11%2010_45_37-WPFOef2.5MouseEnter%20-%20Microsoft%20Visual%20Studio.png)
+![afbeelding](Hoofdstuk2Oef5/1.png)
 
 ## Eventhandlers
 
@@ -64,8 +64,8 @@ namespace WPFOef2._5MouseEnter
 
 ##### men het programma start
 
-![button](https://github.com/MathiasV-immalle/portfolio/blob/master/AfbeeldingenGithub/Oef2.5/2016-11-11%2010_45_01-MainWindow.png)
+![button](Hoofdstuk2Oef5/2.png)
 
 ##### men met de muis over de 'button' komt
 
-![over_button](https://github.com/MathiasV-immalle/portfolio/blob/master/AfbeeldingenGithub/Oef2.5/2016-11-11%2010_45_17-.png)
+![over_button](Hoofdstuk2Oef5/3.png)
