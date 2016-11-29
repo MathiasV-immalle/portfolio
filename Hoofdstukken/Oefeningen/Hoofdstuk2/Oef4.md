@@ -19,7 +19,7 @@
 ```
 #### Dit maakt hetgeen deze afbeelding weergeeft.
 
-![afbeelding](https://github.com/MathiasV-immalle/portfolio/blob/master/AfbeeldingenGithub/Oef2.4/2016-11-11%2009_47_02-WPFOef2.4TeskteditorMaken%20-%20Microsoft%20Visual%20Studio%20Scherm.png)
+![afbeelding](Hoofdstuk2Oef4/1.png)
 
 ## Eventhandlers
 
@@ -58,4 +58,4 @@ namespace WPFOef2._4TeskteditorMaken
 
 ##### Er tekst wordt ingegeven in het Mainwindow en in bijvoorbeeld Kladblok, gebruikmakend van 'Copy & Paste'
 
-![MainWindow+Kladblok](https://github.com/MathiasV-immalle/portfolio/blob/master/AfbeeldingenGithub/Oef2.4/2016-11-11%2009_44_24-Naamloos%20-%20Kladblok%2BMainWindow.png)
+![MainWindow+Kladblok](Hoofdstuk2Oef4/2.png)
