@@ -1,5 +1,4 @@
 # Oefening: RaadHetGetal-Game
-
 ```
 using System;
 
@@ -39,3 +38,7 @@ namespace ConsoleApplication
     }
 }
 ```
+
+#### Deze code zorgt voor het effect dat deze afbeelding weergeeft:
+
+![RaadHetGetal](LinuxRaadHetGetal/1.png)
