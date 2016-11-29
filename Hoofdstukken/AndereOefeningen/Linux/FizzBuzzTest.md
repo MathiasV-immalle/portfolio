@@ -40,4 +40,4 @@ namespace ConsoleApplication
 ```
 #### Deze code zorgt voor het effect dat deze afbeelding weergeeft:
 
-![FizzBuzzTest](https://github.com/MathiasV-immalle/portfolio/blob/master/AfbeeldingenGithub/FizzBuzzTest/2016-11-21%2011_23_55-Xubuntu-imma%20%5BDraaiend%5D%20-%20Oracle%20VM%20VirtualBox.png)
+![FizzBuzzTest](LinuxFizzBuzzTest/1.png)
