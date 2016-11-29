@@ -30,7 +30,7 @@
 ```
 #### Dit maakt hetgeen deze afbeelding weergeeft.
 
-![afbeelding](https://github.com/MathiasV-immalle/portfolio/blob/master/AfbeeldingenGithub/XOef6.4/2016-11-08%2014_03_47-WpfSlider%20-%20Microsoft%20Visual%20Studio%20Sliders1.png)
+![afbeelding](Hoofdstuk6klasseSlider/1.png)
 ## De Eventhandlers
 
 ```
@@ -107,4 +107,4 @@ namespace slider2
 
 #### Deze code zorgt voor het effect dat deze afbeelding weergeeft.
 
-![afbeelding](https://github.com/MathiasV-immalle/portfolio/blob/master/AfbeeldingenGithub/XOef6.4/2016-11-08%2014_05_18-Sliderz%20sliders2.png)
+![afbeelding](Hoofdstuk6klasseSlider/2.png)
