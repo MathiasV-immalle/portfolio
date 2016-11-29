@@ -20,7 +20,7 @@
 
 #### Dit maakt hetgeen deze afbeelding weergeeft.
 
-![afbeelding](https://github.com/MathiasV-immalle/portfolio/blob/master/AfbeeldingenGithub/Oef2.3/2016-11-11%2009_57_37-WPFOef2.3MessageBox%20-%20Microsoft%20Visual%20Studio.png)
+![afbeelding](Hoofdstuk2Oef3/1.png)
 
 ## Eventhandlers
 
@@ -64,12 +64,12 @@ namespace WPFOef2._3MessageBox
 
 ##### ctrl + F5 om het programma te starten worden ingedrukt
 
-![UwNaam](https://github.com/MathiasV-immalle/portfolio/blob/master/AfbeeldingenGithub/Oef2.3/2016-11-11%2009_59_25-.png)
+![UwNaam](Hoofdstuk2Oef3/2.png)
 
 ##### De eerste MessageBox wordt gesloten
 
-![MainWindow](https://github.com/MathiasV-immalle/portfolio/blob/master/AfbeeldingenGithub/Oef2.3/2016-11-11%2009_59_47-MainWindow.png)
+![MainWindow](Hoofdstuk2Oef3/3.png)
 
 ##### De button-knop wordt ingedrukt.
 
-![UwLeeftijd](https://github.com/MathiasV-immalle/portfolio/blob/master/AfbeeldingenGithub/Oef2.3/2016-11-11%2010_00_08-.png)
+![UwLeeftijd](Hoofdstuk2Oef3/4.png)
