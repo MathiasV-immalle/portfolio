@@ -1,6 +1,6 @@
 # Oefening: Switch case
 
-```
+``` C#
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -37,10 +37,12 @@ namespace SwitchCaseOefening
                     weergegevenScore = "prima";
                     break;
             }
+            Console.WriteLine("Mathias heeft een {0} op zijn test, daarom heeft de leerkracht '{1}' op zijn test geschreven.", score, weergegevenScore);
             return weergegevenScore;
         }
         static void Main(string[] args)
         {
+            ScoreNaarWaardering(7);
         }
     }
 }
