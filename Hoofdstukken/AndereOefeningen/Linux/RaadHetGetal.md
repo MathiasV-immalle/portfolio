@@ -1,5 +1,5 @@
 # Oefening: RaadHetGetal-Game
-```
+```C#
 using System;
 
 namespace ConsoleApplication
