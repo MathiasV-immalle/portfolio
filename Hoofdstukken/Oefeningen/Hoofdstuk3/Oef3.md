@@ -1,10 +1,10 @@
-# Oefening 3.3: eenvoudig huis
+# Oefening 3.3: Eenvoudig huis
 ### Gebuikmakend van `Line`
 
 ## De XAML-code
 
 ```C# 
-<Window x:Class="Hoofdstuk3Oef2.MainWindow"
+<Window x:Class="Hoofdstuk3Oef3.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
