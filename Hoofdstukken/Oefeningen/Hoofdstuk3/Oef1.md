@@ -1,10 +1,10 @@
-# Oefening 3.1: rechthoekige driehoek
+# Oefening 3.1: Rechthoekige driehoek
 ### Gebuikmakend van `Line`
 
 ## De XAML-code
 
 ```C#
-<Window x:Class="Hoofdstuk3Oef2.MainWindow"
+<Window x:Class="Hoofdstuk3Oef1.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
@@ -35,7 +35,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Hoofdstuk3Oef2
+namespace Hoofdstuk3Oef1
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
