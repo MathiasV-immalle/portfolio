@@ -1,5 +1,5 @@
-# Oefening 3.1: rechthoekige driehoek
-### Gebuikmakend van Line
+# Oefening 3.2: leeg boter-kaas-en-eieren spelbord
+### Gebuikmakend van `Line`
 
 ## De XAML-code
 
