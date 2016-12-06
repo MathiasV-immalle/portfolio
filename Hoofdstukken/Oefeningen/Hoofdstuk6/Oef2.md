@@ -284,6 +284,15 @@ namespace hoofdstuk6Oef2
             + Convert.ToInt32(CookieversiumLevelLabel2.Content) * 150
             ;
             AantalCookies.Content = getal;
+            KoekjesPerClick.Content = 1
+            + Convert.ToInt32(GrandmaLevelLabel2.Content) * 2
+            + Convert.ToInt32(NewOvenLevelLabel2.Content) * 10
+            + Convert.ToInt32(SecondOvenLevelLabel2.Content) * 25
+            + Convert.ToInt32(SpaceCookieLevelLabel2.Content) * 50
+            + Convert.ToInt32(BakerieLevelLabel2.Content) * 75
+            + Convert.ToInt32(CookiePlanetLevelLabel2.Content) * 100
+            + Convert.ToInt32(CookieversiumLevelLabel2.Content) * 150
+            + " koekje(s) per Click";
         }
 
         private void Cookie_MouseLeave(object sender, MouseEventArgs e)
