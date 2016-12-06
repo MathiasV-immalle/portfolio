@@ -1,7 +1,7 @@
 # Hoofdstuk 6: Objecten
 
 ## Testvragen
-*Coming soon*
+[Oefening 6.2: Knop drukken = +1 (Cookieclicker)](Oefeningen/Hoofdstuk6/Oef2.md)
 
 ## Extra oefeningen
 
