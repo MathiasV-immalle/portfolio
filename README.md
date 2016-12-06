@@ -12,6 +12,8 @@
 ### Oefeningen in [Linux](Hoofdstukken/Linux.md)
 *Meer hoofdstukken komen hier doorheen het schooljaar! :)*
 
-*Sommige hoofdstukken zijn nog 'Under Construction', of er ontbreken oefeningen. De bedoeling is dat deze hoofdstukken worden aangevuld tegen de examens, zodat dit een mooi overzicht wordt van de leerstof. Wat er nu dus nog niet is, zal nog komen!*
+*Oefeningen worden toegevoegd als ze klaarzijn :)*
+
+*Bekijk ook zeker mijn [CookieClicker project](https://github.com/MathiasV-immalle/CookieClicker)!*
 
 Mathias Vansant, student 5 IT & Netwerken te immaculata Oostmalle
