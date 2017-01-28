@@ -1,5 +1,5 @@
 # Oefening 5.1: ToonNaam method
-```
+```C#
 using System;
 
 public class Program
