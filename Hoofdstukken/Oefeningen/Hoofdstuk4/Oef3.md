@@ -1,6 +1,6 @@
 # Oefening 4.3: Integer gemiddelde
 
-```
+```C#
 using System;
 					
 public class Program
