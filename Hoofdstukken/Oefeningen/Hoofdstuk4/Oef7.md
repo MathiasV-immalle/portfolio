@@ -1,5 +1,5 @@
 # Oefening 4.7: Seconden naar uren, minuten en seconden method
-```
+```C#
 using System;
 
 public class Program
