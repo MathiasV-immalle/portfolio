@@ -1,5 +1,5 @@
 # Oefening 4.9: Geldteruggave (Frisdrankautomaat) method
-```
+```C#
 using System;
 
 public class Program
