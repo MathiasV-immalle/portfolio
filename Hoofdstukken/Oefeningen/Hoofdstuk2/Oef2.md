@@ -2,7 +2,7 @@
 
 ##XAML
 
-```
+```C#
 <Window x:Class="Oef2._2Visibility.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
@@ -26,7 +26,7 @@
 
 ## Eventhandlers
 
-```
+```C#
 using System;
 using System.Collections.Generic;
 using System.Linq;
