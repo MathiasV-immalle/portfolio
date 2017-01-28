@@ -2,7 +2,7 @@
 
 ## XAML
 
-```
+```C#
 <Window x:Class="WPFOef2._5MouseEnter.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
@@ -23,7 +23,7 @@
 
 ## Eventhandlers
 
-```
+```C#
 using System;
 using System.Collections.Generic;
 using System.Linq;
