@@ -1,6 +1,6 @@
 # Oefening 5.8: Wisselkoers euro - dollar / dollar - euro method
 
-```
+```C#
 using System;
 
 public class Program
