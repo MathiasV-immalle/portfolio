@@ -1,6 +1,6 @@
 # Oefening 4.4: Double gemiddelde
 
-```
+```C#
 using System;
 					
 public class Program
