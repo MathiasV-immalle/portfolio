@@ -16,4 +16,6 @@
 
 *Bekijk ook zeker mijn [CookieClicker project](https://github.com/MathiasV-immalle/CookieClicker)!*
 
+*Ook mijn [game](https://github.com/MathiasV-immalle/EersteGame) gebaseerd op Pokémon is het bekijken waard!*
+
 Mathias Vansant, student 5 IT & Netwerken te immaculata Oostmalle
