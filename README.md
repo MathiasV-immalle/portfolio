@@ -8,6 +8,9 @@
 ### Hoofdstuk 6: [Objecten](Hoofdstukken/Hoofdstuk6.md)
 ### Hoofdstuk 7: [Beslissingen: if en switch](Hoofdstukken/Hoofdstuk7.md)
 ### Hoofdstuk 8: [Herhaling: For, while en do](Hoofdstukken/Hoofdstuk8.md)
+
+### Extra: [C# Interactive](Hoofdstukken/Csharp-Interactive.md)
+
 ## Programmeren in Linux
 ### Oefeningen in [Linux](Hoofdstukken/Linux.md)
 *Meer hoofdstukken komen hier doorheen het schooljaar! :)*
