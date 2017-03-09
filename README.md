@@ -8,7 +8,24 @@
 ### Hoofdstuk 5: [Methoden en argumenten](Hoofdstukken/Hoofdstuk5.md)
 ### Hoofdstuk 6: [Objecten](Hoofdstukken/Hoofdstuk6.md)
 ### Hoofdstuk 7: [Beslissingen: if en switch](Hoofdstukken/Hoofdstuk7.md)
-### Hoofdstuk 8: [Herhaling: For, while en do](Hoofdstukken/Hoofdstuk8.md)
+### Hoofdstuk 8: [Herhaling: For, while en do]
+### Hoofdstuk 9: [Debuggen]
+### Hoofdstuk 10: [Klassen Schrijven]
+### Hoofdstuk 11: [Overerving]
+### Hoofdstuk 12: [Berekeningen]
+### Hoofdstuk 13: [Gegevensstructuren: Lijsten en ListBox]
+### Hoofdstuk 14: [Eendimensionale arrays]
+### Hoofdstuk 15: [Tweedimensionale arrays]
+### Hoofdstuk 16: [Bewerkingen met strings]
+### Hoofdstuk 17: [Exceptions]
+### Hoofdstuk 18: [Bestanden]
+### Hoofdstuk 19: [Consoleprogramma's]
+### Hoofdstuk 20: [Objectgeoriënteerd otwerp]
+### Hoofdstuk 21: [Programmeerstijl]
+### Hoofdstuk 22: [Testen]
+### Hoofdstuk 23: [Interfaces]
+### Hoofdstuk 24: [Polymorfie]
+### Hoofdstuk 25: [Databases]
 ### Extra: [C# Interactive](Hoofdstukken/Csharp-Interactive.md)
 ## HTML
 ### Part 1: [The beginning](Hoofdstukken/Oefeningen/HTML/The-Beginning.md) (article, section, aside, audio, audiocontrols, autoplay, loop, video, progress, animate, path, form, autocomplete, placeholder, autofocus, required)
