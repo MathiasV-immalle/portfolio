@@ -32,6 +32,7 @@
 ### Part 2: [Canvas](Hoofdstukken/Oefeningen/HTML/Canvas.md) (canvas, script, fillRect, fillStyle, Line, Circle, Gradients, Text)
 ### Part 3: [Web storage objects + Geolocation](Hoofdstukken/Oefeningen/HTML/Web-storage-objects+Geolocation.md) (sessionStorage, localStorage, .getCurrentPosition)
 ### Part 4: [Scalable vector graphics (svg)](Hoofdstukken/Oefeningen/HTML/Scalable-vector-graphics.md) (Circle, Rectangle, Line, Polyline, Ellipse, Polygon)
+### Sololearn: [HTML-certificate](Hoofdstukken/Oefeningen/HTML/SololearnHTML.md)
 
 ## Programmeren in Linux
 ### Oefeningen in [Linux](Hoofdstukken/Linux.md)
