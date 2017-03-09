@@ -1,5 +1,6 @@
 # SoftwareOntwikkeling
-## Programmeren in C#
+## Programmeren in Windows
+## Csharp
 ### Hoofdstuk 1: [De achtergronden van C#](Hoofdstukken/Hoofdstuk1.md)
 ### Hoofdstuk 2: [De C# ontwikkelomgeving](Hoofdstukken/Hoofdstuk2.md)
 ### Hoofdstuk 3: [Objecten en methoden voor eenvoudige graphics](Hoofdstukken/Hoofdstuk3.md)
@@ -8,8 +9,12 @@
 ### Hoofdstuk 6: [Objecten](Hoofdstukken/Hoofdstuk6.md)
 ### Hoofdstuk 7: [Beslissingen: if en switch](Hoofdstukken/Hoofdstuk7.md)
 ### Hoofdstuk 8: [Herhaling: For, while en do](Hoofdstukken/Hoofdstuk8.md)
-
 ### Extra: [C# Interactive](Hoofdstukken/Csharp-Interactive.md)
+## HTML
+### Part 1: [The beginning]() (article, section, aside, audio, audiocontrols, autoplay, loop, video, progress, animate, path, form, autocomplete, placeholder, autofocus, required)
+### Part 2: [Canvas]() (canvas, script, fillRect, fillStyle, Line, Circle, Gradients, Text)
+### Part 3: [Web storage objects + Geolocation]() (sessionStorage, localStorage, .getCurrentPosition)
+### Part 4: [Scalable vector graphics (svg)]() (Circle, Rectangle, Line, Polyline, Ellipse, Polygon)
 
 ## Programmeren in Linux
 ### Oefeningen in [Linux](Hoofdstukken/Linux.md)
