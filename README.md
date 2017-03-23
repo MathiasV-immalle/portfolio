@@ -51,8 +51,8 @@ Hoofdstuk 24: [Polymorfie]
 
 Hoofdstuk 25: [Databases]
 
-### Extra: [C# Interactive](Hoofdstukken/Csharp-Interactive.md)
-## HTML
+#### Extra: [C# Interactive](Hoofdstukken/Csharp-Interactive.md)
+### HTML
 Part 1: [The beginning](Hoofdstukken/Oefeningen/HTML/The-Beginning.md) (article, section, aside, audio, audiocontrols, autoplay, loop, video, progress, animate, path, form, autocomplete, placeholder, autofocus, required)
 
 Part 2: [Canvas](Hoofdstukken/Oefeningen/HTML/Canvas.md) (canvas, script, fillRect, fillStyle, Line, Circle, Gradients, Text)
@@ -64,12 +64,15 @@ Part 4: [Scalable vector graphics (svg)](Hoofdstukken/Oefeningen/HTML/Scalable-v
 ### Sololearn: [HTML-certificate](Hoofdstukken/Oefeningen/HTML/SololearnHTML.md)
 
 ## Programmeren in Linux
-Oefeningen in [Linux](Hoofdstukken/Linux.md)
+[Oefeningen in Linux](Hoofdstukken/Linux.md)
 
 ## Extra's
-#### [CookieClicker project](https://github.com/MathiasV-immalle/CookieClicker)
-#### [Poképire](https://github.com/MathiasV-immalle/EersteGame)
-#### [CSV-Parser-Notepad](https://github.com/MathiasV-immalle/CSV-parser-Notepad)
-#### [GTA-Project](https://github.com/MathiasV-immalle/GTA-project)
+[CookieClicker project](https://github.com/MathiasV-immalle/CookieClicker)
 
-Mathias Vansant, student 5 IT & Netwerken te immaculata Oostmalle
+[Poképire](https://github.com/MathiasV-immalle/EersteGame)
+
+[CSV-Parser-Notepad](https://github.com/MathiasV-immalle/CSV-parser-Notepad)
+
+[GTA-Project](https://github.com/MathiasV-immalle/GTA-project)
+
+### Mathias Vansant, student 5 IT & Netwerken te immaculata Oostmalle
