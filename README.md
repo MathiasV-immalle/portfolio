@@ -61,7 +61,11 @@ Part 3: [Web storage objects + Geolocation](Hoofdstukken/Oefeningen/HTML/Web-sto
 
 Part 4: [Scalable vector graphics (svg)](Hoofdstukken/Oefeningen/HTML/Scalable-vector-graphics.md) (Circle, Rectangle, Line, Polyline, Ellipse, Polygon)
 
-### Sololearn: [HTML-certificate](Hoofdstukken/Oefeningen/HTML/SololearnHTML.md)
+#### Sololearn: [HTML-certificate](Hoofdstukken/Oefeningen/HTML/SololearnHTML.md)
+### Python
+#### Notebook (Jupyter)
+Part 1:
+#### Oefeningen
 
 ## Programmeren in Linux
 [Oefeningen in Linux](Hoofdstukken/Linux.md)
