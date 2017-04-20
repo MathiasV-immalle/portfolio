@@ -67,6 +67,11 @@ Part 4: [Scalable vector graphics (svg)](Hoofdstukken/Oefeningen/HTML/Scalable-v
 Part 1:
 #### Oefeningen
 
+### JavaScript
+#### Notebook (Jupyter)
+Part 1: 
+
+
 ## Programmeren in Linux
 [Oefeningen in Linux](Hoofdstukken/Linux.md)
 
