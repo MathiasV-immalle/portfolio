@@ -69,8 +69,7 @@ Part 1:
 
 ### JavaScript
 #### Notebook (Jupyter)
-Part 1: 
-
+Part 1: [Introductie](Hoofdstukken/Oefeningen/JavaScript/Notebook/Javascript+introductie.ipynb) 
 
 ## Programmeren in Linux
 [Oefeningen in Linux](Hoofdstukken/Linux.md)
