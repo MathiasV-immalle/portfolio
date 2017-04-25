@@ -71,6 +71,7 @@ Part 1:
 #### Notebook (Jupyter)
 Part 1: [Introductie](Hoofdstukken/Oefeningen/JavaScript/Notebook/Javascript+introductie.ipynb) 
 
+#### Sololearn: [JavaScript-certificate](Hoofdstukken/Oefeningen/JavaScript/SoloLearnJavaScript.md)
 ## Programmeren in Linux
 [Oefeningen in Linux](Hoofdstukken/Linux.md)
 
