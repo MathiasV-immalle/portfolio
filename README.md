@@ -11,8 +11,8 @@
 
 - [Hoofdstukken 21 t/m 25](CSharp/Hoofdstukken21-25.md)
 
-#### Extra: [C# Interactive](Hoofdstukken/Csharp-Interactive.md)
-#### Sololearn: [C#-certificate](Hoofdstukken/Oefeningen/CSharp/SoloLearnCSharp.md)
+#### Extra: [C# Interactive](CSharp/Csharp-Interactive/CSharp-Interactive.md)
+#### Sololearn: [C#-certificate](CSharp/SoloLearnCSharp/SoloLearnCSharp.md)
 ### HTML
 Part 1: [The beginning](Hoofdstukken/Oefeningen/HTML/The-Beginning.md) (article, section, aside, audio, audiocontrols, autoplay, loop, video, progress, animate, path, form, autocomplete, placeholder, autofocus, required)
 
