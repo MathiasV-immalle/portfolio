@@ -14,17 +14,13 @@
 - [GTA-Project](https://github.com/MathiasV-immalle/GTA-project)
 ### Sololearn: [C#-certificate](CSharp/SoloLearnCSharp/SoloLearnCSharp.md)
 ## HTML
-- Part 1: [The beginning](Hoofdstukken/Oefeningen/HTML/The-Beginning.md) (article, section, aside, audio, audiocontrols, autoplay, loop, video, progress, animate, path, form, autocomplete, placeholder, autofocus, required)
-- Part 2: [Canvas](Hoofdstukken/Oefeningen/HTML/Canvas.md) (canvas, script, fillRect, fillStyle, Line, Circle, Gradients, Text)
-- Part 3: [Web storage objects + Geolocation](Hoofdstukken/Oefeningen/HTML/Web-storage-objects+Geolocation.md) (sessionStorage, localStorage, .getCurrentPosition)
-- Part 4: [Scalable vector graphics (svg)](Hoofdstukken/Oefeningen/HTML/Scalable-vector-graphics.md) (Circle, Rectangle, Line, Polyline, Ellipse, Polygon)
-#### Sololearn: [HTML-certificate](Hoofdstukken/Oefeningen/HTML/SololearnHTML.md)
-## Python
-### Notebook (Jupyter)
-- Part 1:
-#### Oefeningen
+- Part 1: [The beginning](HTML/Hoofdstukken/The-Beginning.md) (article, section, aside, audio, audiocontrols, autoplay, loop, video, progress, animate, path, form, autocomplete, placeholder, autofocus, required)
+- Part 2: [Canvas](HTML/Hoofdstukken/Canvas.md) (canvas, script, fillRect, fillStyle, Line, Circle, Gradients, Text)
+- Part 3: [Web storage objects + Geolocation](HTML/Hoofdstukken/Web-storage-objects+Geolocation.md) (sessionStorage, localStorage, .getCurrentPosition)
+- Part 4: [Scalable vector graphics (svg)](HTML/Hoofdstukken/Scalable-vector-graphics.md) (Circle, Rectangle, Line, Polyline, Ellipse, Polygon)
+#### Sololearn: [HTML-certificate](HTML/HTMLSoloLearn/SololearnHTML.md)
 ## JavaScript
 ### Notebook (Jupyter)
-- Part 1: [Introductie](Hoofdstukken/Oefeningen/JavaScript/Notebook/Javascript+introductie.ipynb) 
-### Sololearn: [JavaScript-certificate](Hoofdstukken/Oefeningen/JavaScript/SoloLearnJavaScript.md)
+- Part 1: [Introductie](JavaScript/Notebook/Javascript+introductie.ipynb) 
+### Sololearn: [JavaScript-certificate](JavaScript/JavaScriptSoloLearn/SoloLearnJavaScript.md)
 ### Mathias Vansant, student 5 IT & Netwerken te immaculata Oostmalle
