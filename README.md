@@ -12,6 +12,9 @@
 - [Poképire](https://github.com/MathiasV-immalle/EersteGame)
 - [CSV-Parser-Notepad](https://github.com/MathiasV-immalle/CSV-parser-Notepad)
 - [GTA-Project](https://github.com/MathiasV-immalle/GTA-project)
+- [Bankrekening](https://github.com/MathiasV-immalle/Bankrekening)
+- [Polymorfie](https://github.com/MathiasV-immalle/polymorfieExperiment)
+- [Balloons](https://github.com/MathiasV-immalle/balloonz)
 ### Sololearn: [C#-certificate](CSharp/SoloLearnCSharp/SoloLearnCSharp.md)
 ## HTML
 - Part 1: [The beginning](HTML/Hoofdstukken/The-Beginning.md) (article, section, aside, audio, audiocontrols, autoplay, loop, video, progress, animate, path, form, autocomplete, placeholder, autofocus, required)
@@ -19,6 +22,9 @@
 - Part 3: [Web storage objects + Geolocation](HTML/Hoofdstukken/Web-storage-objects+Geolocation.md) (sessionStorage, localStorage, .getCurrentPosition)
 - Part 4: [Scalable vector graphics (svg)](HTML/Hoofdstukken/Scalable-vector-graphics.md) (Circle, Rectangle, Line, Polyline, Ellipse, Polygon)
 ### Sololearn: [HTML-certificate](HTML/HTMLSoloLearn/SololearnHTML.md)
+### Sites!
+#### Dit zijn mijn zelfgemaakte sites. Neem gerust een kijkje!
+- [t'Experiment](https://mathiasv-immalle.github.io/tExperiment/)
 ## JavaScript
 ### Notebook (Jupyter)
 - Part 1: [Introductie](JavaScript/Notebook/Javascript+introductie.ipynb) 
