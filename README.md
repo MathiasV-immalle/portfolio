@@ -18,7 +18,7 @@
 - Part 2: [Canvas](HTML/Hoofdstukken/Canvas.md) (canvas, script, fillRect, fillStyle, Line, Circle, Gradients, Text)
 - Part 3: [Web storage objects + Geolocation](HTML/Hoofdstukken/Web-storage-objects+Geolocation.md) (sessionStorage, localStorage, .getCurrentPosition)
 - Part 4: [Scalable vector graphics (svg)](HTML/Hoofdstukken/Scalable-vector-graphics.md) (Circle, Rectangle, Line, Polyline, Ellipse, Polygon)
-#### Sololearn: [HTML-certificate](HTML/HTMLSoloLearn/SololearnHTML.md)
+### Sololearn: [HTML-certificate](HTML/HTMLSoloLearn/SololearnHTML.md)
 ## JavaScript
 ### Notebook (Jupyter)
 - Part 1: [Introductie](JavaScript/Notebook/Javascript+introductie.ipynb) 
